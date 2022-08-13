@@ -1,0 +1,7 @@
+name: MCDE
+version: '${project.version}'
+main: tk.thesuperlab.mcde.Main
+api-version: 1.18
+authors: [ chocoearly44 ]
+description: Minecraft as a simple desktop environment.
+website: https://github.com/chocoearly44/MCDE
